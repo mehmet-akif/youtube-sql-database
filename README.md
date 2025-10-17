@@ -32,7 +32,8 @@ Each table is linked via **foreign key relationships**:
 yt_user.user_id → channel.user_id  
 channel.ch_id → subscription.ch_id  
 yt_user.user_id → subscription.user_id
-
----
+'''
 
 ## Implemented Queries
+
+
